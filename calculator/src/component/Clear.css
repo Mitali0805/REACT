@@ -1,0 +1,10 @@
+.clr-btn{
+   display: flex;
+   flex: 1px;
+   height:40px ; 
+   align-items: center;
+   justify-content: center;
+   font-weight: bold;
+   font-size: 20px;
+   outline: 1px solid purple;
+}

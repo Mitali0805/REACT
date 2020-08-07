@@ -1,0 +1,112 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    Hello World
+  </h1>
+  <h1>
+    Hellloooo
+  </h1>
+  <h1>
+    Class Component
+  </h1>
+  <div>
+    <hr />
+    example of props
+    <h1>
+      Users List
+    </h1>
+    <div>
+      Name :
+      Harry
+      | Age:
+      20
+    </div>
+    <div>
+      Name :
+      Hermaini
+      | Age:
+      21
+    </div>
+    <div>
+      Name :
+      Ron
+      | Age:
+      23
+    </div>
+  </div>
+  <div>
+    <br />
+    <br />
+    <hr />
+    example of state
+    <h1>
+      Welcome to Hogwarts
+    </h1>
+    <button
+      onClick={[Function]}
+    >
+      Subscribe
+    </button>
+  </div>
+  <div>
+    <br />
+    <br />
+    <hr />
+    This is example of setState
+    <h2>
+      Count-
+      0
+    </h2>
+    <button
+      onClick={[Function]}
+    >
+      Increment
+    </button>
+  </div>
+  <div>
+    <hr />
+    example of FunctionClick
+    <br />
+    <button
+      onClick={[Function]}
+    >
+      Click Button
+    </button>
+  </div>
+  <div>
+    <hr />
+    example of ClassClick
+    <br />
+    <button
+      onClick={[Function]}
+    >
+      Click me
+    </button>
+  </div>
+  <div>
+    <hr />
+    <div>
+      Hello
+    </div>
+    <button
+      onClick={[Function]}
+    >
+      Click
+    </button>
+  </div>
+  <div>
+    <div>
+      <hr />
+      <button
+        onClick={[Function]}
+      >
+        Greet Parent
+      </button>
+    </div>
+  </div>
+</div>
+`;
